@@ -1,9 +1,4 @@
 
-public class pr {
-
-	public static void main(String[] args) {
-		int a=0;
-
-	}
+public class Ejercicio2 {
 
 }
